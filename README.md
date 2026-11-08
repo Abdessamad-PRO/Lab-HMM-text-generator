@@ -63,12 +63,6 @@ streamlit run app.py
 
 The application will open in your browser at `http://localhost:8501`
 
-### Generate the PDF report
-```bash
-pip install reportlab
-python generate_report.py
-```
-
 Run every command from this folder.
 
 ## Testing the Application
